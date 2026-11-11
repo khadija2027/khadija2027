@@ -3,10 +3,10 @@
 I build machine learning projects that connect research, data analysis, and usable applications. My work spans natural language processing, medical image classification, forecasting, and scientific computing.
 
 ## Featured work
-**[Autonomous Overhead Crane](https://github.com/khadija2027/Autonomous-Overhead-Crane)** — Computer-vision and stereo-vision components for an autonomous overhead crane, including object detection using YOLO, camera calibration, and depth estimation for crane control.
+- **[Autonomous Overhead Crane](https://github.com/khadija2027/Autonomous-Overhead-Crane)** — Computer-vision and stereo-vision components for an autonomous overhead crane, including object detection using YOLO, camera calibration, and depth estimation for crane control.
 - **[Etsy Review Intelligence](https://github.com/khadija2027/Etsy-Review-Intelligence)** — A review analysis application with transformer-based sentiment classification, topic discovery, a FastAPI backend, and a React dashboard.
 - **[Medical Image Classification using QCNN](https://github.com/khadija2027/Medical-image-classification-using-QCNN)** — Research experiments comparing quantum and classical approaches to pneumonia and dental image classification.
-- **[Retail Demand Forecasting](https://github.com/khadija2027/Demand-Forecasting-and-Inventory-Safety-in-the-Retail-Sector)** — Demand forecasting and stockout analysis using the FreshRetailNet-50K dataset.
+- **[Retail Demand Forecasting](https://github.com/khadija2027/Demand-Forecasting-and-Inventory-Safety-in-the-Retail-Sector)** — Estimating the hidden demand for fresh food products during stockouts using gradient boosting models and a counterfactual "no-stockout" approach, to measure the sales lost to out-of-stock situations.
 - **[Safran HR Chatbot](https://github.com/khadija2027/Think_to_deploy_hackathon)** — A French-language retrieval-augmented chatbot built for a hackathon.
 - **[Lung Airflow Modeling](https://github.com/khadija2027/Lung_Airflow_Modeling)** — A coursework project simulating airflow in an asymmetric airway domain. It uses finite differences for 2D Stokes and Navier–Stokes equations, with prescribed boundary pressures and visualizations of velocity and pressure fields.
 
